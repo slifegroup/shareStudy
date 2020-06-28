@@ -1,6 +1,4 @@
-<!-- docs/_sidebar.md --> 
+* [主页](/index) 
 
-* [Home](/) 
-
-* 日常问题
-  * [nginx](nginx.md)
+* [日常问题](#daily)
+  * [nginx](daily/nginx.md)
