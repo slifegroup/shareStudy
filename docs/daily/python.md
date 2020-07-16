@@ -1,4 +1,4 @@
-## ppython学习日常问题
+## python学习日常问题
 
 ### 使用 Flask 框架 + Pycharm 开启 debug 模式
 

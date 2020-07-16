@@ -110,7 +110,7 @@ Physical volume "/dev/sda4" successfully created
     [root@localhost ~]# df -lhT
     ```
 
-![image-20200616103904566](C:\Users\xulia\AppData\Roaming\Typora\typora-user-images\image-20200616103904566.png)
+![image-20200616103904566](https://img.mupaie.com/image-20200616103904566.png)
 
 ​		注意：**虽然xfs文件系统只支持增加，不支持减少。但并不是说在xfs系统文件下不能减小，只是减小后，需要重新格式化才能挂载上。这样原来的数据就丢失了！设置大小的时候需谨慎**
 
