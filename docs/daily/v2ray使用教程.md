@@ -22,6 +22,6 @@ V2ray 的使用教程
 
       安装成功后，添加代理
 
-      ![image-20200716174445993](C:\Users\xulia\AppData\Roaming\Typora\typora-user-images\image-20200716174445993.png)
+      ![image-20200716174445993](https://img.mupaie.com/image-20200716174445993.png)
 
       完成上述操作后，即可实现将访问的网址，通过 `V2ray` 代理实现出国
