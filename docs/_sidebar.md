@@ -1,28 +1,52 @@
-- 日常问题
+ - 日常问题
 
-  - java
+   - java
 
-    - [设置jackson统一处理序列化](daily/jackson统一处理序列化.md)
+     - [git相关](daily\java\git相关.md)
 
-  - python
+     - [hexo创建个人博客](daily\java\hexo创建个人博客.md)
 
-    - [conda安装使用](daily/conda安装使用.md)
+     - [Hive相关操作](daily\java\Hive相关操作.md)
 
-    - [日常学习](daily/python.md)
+     - [jackson统一处理序列化](daily\java\jackson统一处理序列化.md)
 
-  - 服务器
-  
-    - [nginx如何减少网络带宽](daily/nginx.md)
-    - [centos设置yum源](daily/centos设置yum源.md)
-    - [对虚拟机下的 centos 扩容](daily/对VMwareWorkstation虚拟机下的centos7扩容.md)
-    - [V2ray使用教程](daily\v2ray使用教程.md)
-    
-  - 大数据
-  
-    - [Hive](daily/Hive相关操作.md)
-  
-  - 其他
-  
-    - [hexo创建个人博客](daily/hexo创建个人博客.md)
-  
-  
+     - [mongoDB](daily\java\mongoDB.md)
+
+     - [swagger使用](daily\java\swagger使用.md)
+
+   - python
+
+     - [conda安装使用](daily\python\conda安装使用.md)
+
+     - [python](daily\python\python.md)
+
+   - web
+
+     - [nginx](daily\web\nginx.md)
+
+     - [npm全局安装找不到命令](daily\web\npm全局安装找不到命令.md)
+
+   - 其他
+
+     - [docsify](daily\其他\docsify.md)
+
+     - [PowerDesigner使用](daily\其他\PowerDesigner使用.md)
+
+     - [v2ray使用教程](daily\其他\v2ray使用教程.md)
+
+     - [VMNAT模式上网](daily\其他\VMNAT模式上网.md)
+
+     - [VPN连接报错](daily\其他\VPN连接报错.md)
+
+   - 服务器
+
+     - [centos设置yum源](daily\服务器\centos设置yum源.md)
+
+     - [docker启动服务](daily\服务器\docker启动服务.md)
+
+     - [docker学习](daily\服务器\docker学习.md)
+
+     - [对VMwareWorkstation虚拟机下的centos7扩容](daily\服务器\对VMwareWorkstation虚拟机下的centos7扩容.md)
+
+
+
